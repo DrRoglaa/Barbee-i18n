@@ -1,332 +1,332 @@
 /* No comment provided by engineer. */
-" in the menu bar to start!" = " in the menu bar to start!";
+" in the menu bar to start!" = " zaženi v menijski vrstici!";
 
 /* No comment provided by engineer. */
-" will be always hidden." = " will be always hidden.";
+" will be always hidden." = " vedno bo skrito.";
 
 /* No comment provided by engineer. */
-" will be hidden." = " will be hidden.";
+" will be hidden." = " bo skrito.";
 
 /* No comment provided by engineer. */
-"sec(s)" = "sec(s)";
+"sec(s)" = "sekund(a)";
 
 /* No comment provided by engineer. */
-"• Manage the menu bar icons as you want" = "• Manage the menu bar icons as you want";
+"• Manage the menu bar icons as you want" = "• Upravljajte ikone menijske vrstice po želji";
 
 /* No comment provided by engineer. */
-"• Various menu appearance styles" = "• Various menu appearance styles";
+"• Various menu appearance styles" = "• Različni slogi videza menijev";
 
 /* No comment provided by engineer. */
-"• Reduce menu bar icon spacing" = "• Reduce menu bar icon spacing";
+"• Reduce menu bar icon spacing" = "• Zmanjšajte razmik med ikonami v menijski vrstici";
 
 /* No comment provided by engineer. */
-"• Support the menu bar with a notch" = "• Support the menu bar with a notch";
+"• Support the menu bar with a notch" = "• Podprite menijsko vrstico z notch";
 
 /* No comment provided by engineer. */
-"• Unlimited number of times you can show/hide menu bar icons" = "• Unlimited number of times you can show/hide menu bar icons";
+"• Unlimited number of times you can show/hide menu bar icons" = "• Neomejeno število prikazov/skritih ikon menijske vrstice";
 
 /* No comment provided by engineer. */
-"⌘ Shortcut List:" = "⌘ Shortcut List:";
+"⌘ Shortcut List:" = "⌘ Seznam bližnjic:";
 
 /* No comment provided by engineer. */
-"⏰️  Monitor menu bar item changes, then perform an action" = "⏰️  Monitor menu bar item changes, then perform an action";
+"⏰️  Monitor menu bar item changes, then perform an action" = "⏰️  Spremljajte spremembe elementov menijske vrstice in nato izvedite dejanje";
 
 /* No comment provided by engineer. */
-"⚠️⚠️⚠️Unresponsive Item %@" = "⚠️⚠️⚠️Unresponsive Item %@";
+"⚠️⚠️⚠️Unresponsive Item %@" = "⚠️⚠️⚠️Neodziven element %@";
 
 /* No comment provided by engineer. */
-"⛔️️ Barbee does not collect or track any of your personal data and Barbee does not apply for any network permissions." = "⛔️️ Barbee does not collect or track any of your personal data and Barbee does not apply for any network permissions.";
+"⛔️️ Barbee does not collect or track any of your personal data and Barbee does not apply for any network permissions." = "⛔️️ Barbee ne zbira ali sledi nobenih vaših osebnih podatkov in ne zaprosi za nobena omrežna dovoljenja.";
 
 /* No comment provided by engineer. */
-"✅️ Accessibility permission granted" = "✅️ Accessibility permission granted";
+"✅️ Accessibility permission granted" = "✅️ Dovoljenje za dostopnost odobreno";
 
 /* No comment provided by engineer. */
-"✅️ Screen Recording permission granted" = "✅️ Screen Recording permission granted";
+"✅️ Screen Recording permission granted" = "✅️ Dovoljenje za snemanje zaslona odobreno";
 
 /* No comment provided by engineer. */
-"✉️ Contact us" = "✉️ Contact us";
+"✉️ Contact us" = "✉️ Kontaktirajte nas";
 
 /* No comment provided by engineer. */
-"⭐️️ Drag to arrange your menu bar items as you want!" = "⭐️️ Drag to arrange your menu bar items as you want!";
+"⭐️️ Drag to arrange your menu bar items as you want!" = "⭐️️ Povlecite, da razporedite elemente menijske vrstice, kot želite!";
 
 /* No comment provided by engineer. */
-"🐝 Relaunch Barbee" = "🐝 Relaunch Barbee";
+"🐝 Relaunch Barbee" = "🐝 Ponovni zagon Barbee";
 
 /* No comment provided by engineer. */
-"🐞 Report bugs" = "🐞 Report bugs";
+"🐞 Report bugs" = "🐞 Sporoči napako";
 
 /* No comment provided by engineer. */
-"👀 View details..." = "👀 View details...";
+"👀 View details..." = "👀 Ogled podrobnosti...";
 
 /* No comment provided by engineer. */
-"👉 In the pop-up authorization window, please 🔓unlock in the lower-left corner first, then ✔️allow Barbee in the right list." = "👉 In the pop-up authorization window, please 🔓unlock in the lower-left corner first, then ✔️allow Barbee in the right list.";
+"👉 In the pop-up authorization window, please 🔓unlock in the lower-left corner first, then ✔️allow Barbee in the right list." = "👉 V pojavnem oknu za avtorizacijo najprej 🔓odklenite v spodnjem levem kotu, nato pa ✔️dovolite Barbee na desnem seznamu.";
 
 /* No comment provided by engineer. */
-"💥Supercharge your scripts or shortcuts with Barbee" = "💥Supercharge your scripts or shortcuts with Barbee";
+"💥Supercharge your scripts or shortcuts with Barbee" = "💥Izboljšajte svoje skripte ali bližnjice z Barbee";
 
 /* No comment provided by engineer. */
-"📊 Export logs..." = "📊 Export logs...";
+"📊 Export logs..." = "📊 Izvozi dnevnike...";
 
 /* No comment provided by engineer. */
-"🔥️ Enhanced Mode" = "🔥️ Enhanced Mode";
+"🔥️ Enhanced Mode" = "🔥️ Izboljšan način";
 
 /* No comment provided by engineer. */
-"🕶️ You are the VIP" = "🕶️ You are the VIP";
+"🕶️ You are the VIP" = "🕶️ Ti si VIP";
 
 /* No comment provided by engineer. */
-"🦄 Join TestFlight..." = "🦄 Join TestFlight...";
+"🦄 Join TestFlight..." = "🦄 Pridružite se TestFlightu ...";
 
 /* No comment provided by engineer. */
-"🧩 Right-click to customize Barbee widget group" = "🧩 Right-click to customize Barbee widget group";
+"🧩 Right-click to customize Barbee widget group" = "🧩 Z desno miškino tipko kliknite za prilagoditev skupine pripomočkov Barbee";
 
 /* No comment provided by engineer. */
-"🧩 Right-click to customize Barbee widgets" = "🧩 Right-click to customize Barbee widgets";
+"🧩 Right-click to customize Barbee widgets" = "🧩 Z desno miškino tipko kliknite za prilagoditev pripomočkov Barbee";
 
 /* No comment provided by engineer. */
-"🧩 Widget Management" = "🧩 Widget Management";
+"🧩 Widget Management" = "🧩 Upravljanje gradnikov";
 
 /* No comment provided by engineer. */
-"3-day Free Trial" = "3-day Free Trial";
+"3-day Free Trial" = "3-dnevni brezplačni preizkus";
 
 /* No comment provided by engineer. */
-"About" = "About";
+"About" = "O nas";
 
 /* No comment provided by engineer. */
-"Accessibility" = "Accessibility";
+"Accessibility" = "Dostopnost";
 
 /* No comment provided by engineer. */
-"Action" = "Action";
+"Action" = "Akcija";
 
 /* No comment provided by engineer. */
-"Action:" = "Action:";
+"Action:" = "Akcija:";
 
 /* No comment provided by engineer. */
-"Activate for %d second(s)" = "Activate for %d second(s)";
+"Activate for %d second(s)" = "Aktiviraj za %d sekundo(e)";
 
 /* No comment provided by engineer. */
-"Activate for a while" = "Activate for a while";
+"Activate for a while" = "Aktivirajte za nekaj časa";
 
 /* No comment provided by engineer. */
-"Activate seconds: %d" = "Activate seconds: %d";
+"Activate seconds: %d" = "Aktivne sekunde: %d";
 
 /* No comment provided by engineer. */
-"Active" = "Active";
+"Active" = "Aktivno";
 
 /* No comment provided by engineer. */
-"Active Barbee profile with name: ${profileName}" = "Active Barbee profile with name: ${profileName}";
+"Active Barbee profile with name: ${profileName}" = "Aktiven Barbee profil z imenom: ${profileName}";
 
 /* No comment provided by engineer. */
-"Active Barbee profile with name." = "Active Barbee profile with name.";
+"Active Barbee profile with name." = "Aktiviraj Barbee profil z imenom.";
 
 /* No comment provided by engineer. */
-"Active Profile" = "Active Profile";
+"Active Profile" = "Aktiven profil";
 
 /* No comment provided by engineer. */
-"Actived profile successfully" = "Actived profile successfully";
+"Actived profile successfully" = "Profil uspešno aktiviran";
 
 /* No comment provided by engineer. */
-"Add" = "Add";
+"Add" = "Dodaj";
 
 /* No comment provided by engineer. */
-"Add/Remove menu bar inner shadow and drop shadow." = "Add/Remove menu bar inner shadow and drop shadow.";
+"Add/Remove menu bar inner shadow and drop shadow." = "Dodaj/odstrani notranjo senco in padajočo senco menijske vrstice.";
 
 /* No comment provided by engineer. */
-"All Menu Bar Item" = "All Menu Bar Item";
+"All Menu Bar Item" = "Vsi elementi menijske vrstice";
 
 /* No comment provided by engineer. */
-"All menu bar items are visible on external screens" = "All menu bar items are visible on external screens";
+"All menu bar items are visible on external screens" = "Vsi elementi menijske vrstice so vidni na zunanjih zaslonih";
 
 /* No comment provided by engineer. */
-"Alpha Value" = "Alpha Value";
+"Alpha Value" = "Alfa vrednost";
 
 /* No comment provided by engineer. */
-"Always Hidden" = "Always Hidden";
+"Always Hidden" = "Vedno skrito";
 
 /* No comment provided by engineer. */
-"Always Hidden Items" = "Always Hidden Items";
+"Always Hidden Items" = "Vedno skriti predmeti";
 
 /* No comment provided by engineer. */
-"Always Hidden Items:" = "Always Hidden Items:";
+"Always Hidden Items:" = "Vedno skriti predmeti:";
 
 /* No comment provided by engineer. */
-"Always Hidden Menu Bar Item" = "Always Hidden Menu Bar Item";
+"Always Hidden Menu Bar Item" = "Vedno skrit element menijske vrstice";
 
 /* No comment provided by engineer. */
-"App Modules" = "App Modules";
+"App Modules" = "Moduli aplikacij";
 
 /* No comment provided by engineer. */
-"Apply" = "Apply";
+"Apply" = "Uporabi";
 
 /* No comment provided by engineer. */
-"Authorize" = "Authorize";
+"Authorize" = "Avtoriziraj";
 
 /* No comment provided by engineer. */
-"Automation" = "Automation";
+"Automation" = "Avtomatizacija";
 
 /* No comment provided by engineer. */
-"Automation feature requires additional permissions!" = "Automation feature requires additional permissions!";
+"Automation feature requires additional permissions!" = "Funkcija avtomatizacije zahteva dodatna dovoljenja!";
 
 /* No comment provided by engineer. */
-"Backup profile successfully." = "Backup profile successfully.";
+"Backup profile successfully." = "Profil je bil uspešno varnostno kopiran.";
 
 /* No comment provided by engineer. */
-"Backup to iCloud drive" = "Backup to iCloud drive";
+"Backup to iCloud drive" = "Varnostno kopiranje v iCloud";
 
 /* No comment provided by engineer. */
-"Barbee requires Accessibility access to show/hide the menu bar items." = "Barbee requires Accessibility access to show/hide the menu bar items.";
+"Barbee requires Accessibility access to show/hide the menu bar items." = "Barbee potrebuje dostop do osebnih podatkov za prikaz/skrivanje elementov menijske vrstice.";
 
 /* No comment provided by engineer. */
-"Barbee requires Screen Recording access to monitor the menu bar item list and capture the images of changed items." = "Barbee requires Screen Recording access to monitor the menu bar item list and capture the images of changed items.";
+"Barbee requires Screen Recording access to monitor the menu bar item list and capture the images of changed items." = "Barbee potrebuje dostop do snemanja zaslona, ​​da lahko spremlja seznam elementov v menijski vrstici in zajame slike spremenjenih elementov.";
 
 /* No comment provided by engineer. */
-"Barbee requires your permissions to access system capabilities to provide its functionality. Please review the permissions below." = "Barbee requires your permissions to access system capabilities to provide its functionality. Please review the permissions below.";
+"Barbee requires your permissions to access system capabilities to provide its functionality. Please review the permissions below." = "Barbee za zagotavljanje svojih funkcij potrebuje vaša dovoljenja za dostop do sistemskih zmogljivosti. Prosimo, preglejte spodnja dovoljenja.";
 
 /* No comment provided by engineer. */
-"Become VIP to use without limitation" = "Become VIP to use without limitation";
+"Become VIP to use without limitation" = "Postanite VIP za uporabo brez omejitev";
 
 /* No comment provided by engineer. */
-"Beta Testing" = "Beta Testing";
+"Beta Testing" = "Beta testiranje";
 
 /* No comment provided by engineer. */
-"Bundle Identifier" = "Bundle Identifier";
+"Bundle Identifier" = "Identifikator paketa";
 
 /* No comment provided by engineer. */
-"Change inner shadow state: ${innerShadowState}, drop shadow state: ${dropShadowState}" = "Change inner shadow state: ${innerShadowState}, drop shadow state: ${dropShadowState}";
+"Change inner shadow state: ${innerShadowState}, drop shadow state: ${dropShadowState}" = "Spremeni stanje notranje sence: ${innerShadowState}, stanje padajoče sence: ${dropShadowState}";
 
 /* No comment provided by engineer. */
-"Change Menu Bar Color" = "Change Menu Bar Color";
+"Change Menu Bar Color" = "Spremeni barvo menijske vrstice";
 
 /* No comment provided by engineer. */
-"Change menu bar color: ${color}" = "Change menu bar color: ${color}";
+"Change menu bar color: ${color}" = "Spremeni barvo menijske vrstice: ${color}";
 
 /* No comment provided by engineer. */
-"Change Menu Bar Shadow State" = "Change Menu Bar Shadow State";
+"Change Menu Bar Shadow State" = "Spremeni stanje sence menijske vrstice";
 
 /* No comment provided by engineer. */
-"Change Top Notch State" = "Change Top Notch State";
+"Change Top Notch State" = "Spremeni stanje Notch";
 
 /* No comment provided by engineer. */
-"Change top notch state: ${state}" = "Change top notch state: ${state}";
+"Change top notch state: ${state}" = "Spremeni stanje Notch: ${state}";
 
 /* No comment provided by engineer. */
-"Change Wallpaper..." = "Change Wallpaper...";
+"Change Wallpaper..." = "Spremeni ozadje...";
 
 /* No comment provided by engineer. */
-"Change your current screen menu bar color, enter your color hex string(e.g. \"0AB188FF\"). Restore the color of the menu bar if the hex string is empty." = "Change your current screen menu bar color, enter your color hex string(e.g. \"0AB188FF\"). Restore the color of the menu bar if the hex string is empty.";
+"Change your current screen menu bar color, enter your color hex string(e.g. \"0AB188FF\"). Restore the color of the menu bar if the hex string is empty." = "Spremenite trenutno barvo menijske vrstice na zaslonu, vnesite šestnajstiški niz barve (npr. \"0AB188FF\"). Obnovite barvo menijske vrstice, če je šestnajstiški niz prazen.";
 
 /* No comment provided by engineer. */
-"Changing menu bar color requires user directory authorization" = "Changing menu bar color requires user directory authorization";
+"Changing menu bar color requires user directory authorization" = "Spreminjanje barve menijske vrstice zahteva avtorizacijo uporabnika v imeniku";
 
 /* No comment provided by engineer. */
-"Changing menu item gaps requires user directory authorization" = "Changing menu item gaps requires user directory authorization";
+"Changing menu item gaps requires user directory authorization" = "Spreminjanje vrzeli v elementih menija zahteva avtorizacijo uporabnika v imeniku";
 
 /* No comment provided by engineer. */
-"Choose a menu bar item" = "Choose a menu bar item";
+"Choose a menu bar item" = "Izberite element menijske vrstice";
 
 /* No comment provided by engineer. */
-"Choose Barbee Mode" = "Choose Barbee Mode";
+"Choose Barbee Mode" = "Izberite način Barbee";
 
 /* No comment provided by engineer. */
-"Click menu bar item" = "Click menu bar item";
+"Click menu bar item" = "Kliknite element menijske vrstice";
 
 /* No comment provided by engineer. */
-"Click Menu Bar Item (Enhanced mode only)" = "Click Menu Bar Item (Enhanced mode only)";
+"Click Menu Bar Item (Enhanced mode only)" = "Kliknite element menijske vrstice (samo v izboljšanem načinu)";
 
 /* No comment provided by engineer. */
-"Click menu bar item by identifier: ${itemIdentifier}" = "Click menu bar item by identifier: ${itemIdentifier}";
+"Click menu bar item by identifier: ${itemIdentifier}" = "Klikni element menijske vrstice po identifikatorju: ${itemIdentifier}";
 
 /* No comment provided by engineer. */
-"Click menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Click menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\").";
+"Click menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Kliknite element menijske vrstice po identifikatorju (npr. \"com.apple.controlcenter-WiFi\").";
 
 /* No comment provided by engineer. */
-"Click on the menu bar Barbee icon to toggle the visibility of hidden items directly" = "Click on the menu bar Barbee icon to toggle the visibility of hidden items directly";
+"Click on the menu bar Barbee icon to toggle the visibility of hidden items directly" = "Kliknite ikono Barbee v menijski vrstici, da neposredno vklopite/izklopite vidnost skritih elementov.";
 
 /* No comment provided by engineer. */
-"Click on the menu bar to toggle the visibility of hidden items" = "Click on the menu bar to toggle the visibility of hidden items";
+"Click on the menu bar to toggle the visibility of hidden items" = "Kliknite na menijsko vrstico, da preklopite vidnost skritih elementov";
 
 /* No comment provided by engineer. */
-"Click the icon " = "Click the icon ";
+"Click the icon " = "Kliknite ikono ";
 
 /* No comment provided by engineer. */
-"Close" = "Close";
+"Close" = "Zapri";
 
 /* No comment provided by engineer. */
-"Color" = "Color";
+"Color" = "Barva";
 
 /* No comment provided by engineer. */
-"Configuration" = "Configuration";
+"Configuration" = "Konfiguracija";
 
 /* No comment provided by engineer. */
-"Confirm" = "Confirm";
+"Confirm" = "Potrdi";
 
 /* No comment provided by engineer. */
-"Content" = "Content";
+"Content" = "Vsebina";
 
 /* No comment provided by engineer. */
-"Continue" = "Continue";
+"Continue" = "Nadaljuj";
 
 /* No comment provided by engineer. */
-"Corner Radius" = "Corner Radius";
+"Corner Radius" = "Polmer vogala";
 
 /* No comment provided by engineer. */
-"Current Item" = "Current Item";
+"Current Item" = "Trenutni element";
 
 /* No comment provided by engineer. */
-"Custom shortcuts feature requires additional permissions!" = "Custom shortcuts feature requires additional permissions!";
+"Custom shortcuts feature requires additional permissions!" = "Funkcija bližnjic po meri zahteva dodatna dovoljenja!";
 
 /* No comment provided by engineer. */
-"Dark Background Color" = "Dark Background Color";
+"Dark Background Color" = "Temna barva ozadja";
 
 /* No comment provided by engineer. */
-"Default Gap - system default spacing between items" = "Default Gap - system default spacing between items";
+"Default Gap - system default spacing between items" = "Privzeta vrzel - sistemski privzeti razmik med elementi";
 
 /* No comment provided by engineer. */
-"Delay before hiding items again." = "Delay before hiding items again.";
+"Delay before hiding items again." = "Zakasnitev pred ponovnim skrivanjem elementov.";
 
 /* No comment provided by engineer. */
-"Delete" = "Delete";
+"Delete" = "Izbriši";
 
 /* No comment provided by engineer. */
-"Delete `%@`" = "Delete `%@`";
+"Delete `%@`" = "Izbriši `%@`";
 
 /* No comment provided by engineer. */
-"Diagnostics" = "Diagnostics";
+"Diagnostics" = "Diagnostika";
 
 /* No comment provided by engineer. */
-"Do you want to backup profiles to iCloud?" = "Do you want to backup profiles to iCloud?";
+"Do you want to backup profiles to iCloud?" = "Ali želite varnostno kopirati profile v iCloud?";
 
 /* No comment provided by engineer. */
-"Do you want to delete profile `%@`?" = "Do you want to delete profile `%@`?";
+"Do you want to delete profile `%@`?" = "Ali želite izbrisati profil `%@`?";
 
 /* No comment provided by engineer. */
-"Do you want to delete this automation?" = "Do you want to delete this automation?";
+"Do you want to delete this automation?" = "Ali želite izbrisati to avtomatizacijo?";
 
 /* No comment provided by engineer. */
-"Do you want to delete this shortcut?" = "Do you want to delete this shortcut?";
+"Do you want to delete this shortcut?" = "Ali želite izbrisati to bližnjico?";
 
 /* No comment provided by engineer. */
-"Do you want to import this profile?" = "Do you want to import this profile?";
+"Do you want to import this profile?" = "Ali želite uvoziti ta profil?";
 
 /* No comment provided by engineer. */
-"Do you want to sync profiles from iCloud?" = "Do you want to sync profiles from iCloud?";
+"Do you want to sync profiles from iCloud?" = "Ali želite sinhronizirati profile iz iClouda?";
 
 /* No comment provided by engineer. */
-"Drop Shadow" = "Drop Shadow";
+"Drop Shadow" = "Spusti senco";
 
 /* No comment provided by engineer. */
-"Drop Shadow State" = "Drop Shadow State";
+"Drop Shadow State" = "Status spusta sence";
 
 /* No comment provided by engineer. */
-"Edit" = "Edit";
+"Edit" = "Uredi";
 
 /* No comment provided by engineer. */
-"Energy Saver" = "Energy Saver";
+"Energy Saver" = "Varčevanje z energijo";
 
 /* No comment provided by engineer. */
-"Enhanced Mode" = "Enhanced Mode";
+"Enhanced Mode" = "Izboljšan način";
 
 /* No comment provided by engineer. */
-"Enhanced mode is only available for Notch screens" = "Enhanced mode is only available for Notch screens";
+"Enhanced mode is only available for Notch screens" = "Izboljšan način je na voljo samo za zaslone z Notch";
 
 /* No comment provided by engineer. */
 "Export" = "Export";
