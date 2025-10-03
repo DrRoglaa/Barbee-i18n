@@ -329,115 +329,115 @@
 "Enhanced mode is only available for Notch screens" = "Izboljšan način je na voljo samo za zaslone z Notch";
 
 /* No comment provided by engineer. */
-"Export" = "Export";
+"Export" = "Izvoz";
 
 /* No comment provided by engineer. */
-"Failed to active profile" = "Failed to active profile";
+"Failed to active profile" = "Aktiviranje profila ni uspelo";
 
 /* No comment provided by engineer. */
-"Failed to backup profile." = "Failed to backup profile.";
+"Failed to backup profile." = "Varnostno kopiranje profila ni uspelo.";
 
 /* No comment provided by engineer. */
-"Failed to change menu item gap" = "Failed to change menu item gap";
+"Failed to change menu item gap" = "Sprememba presledka elementa menija ni uspela";
 
 /* No comment provided by engineer. */
-"Failed to export profile." = "Failed to export profile.";
+"Failed to export profile." = "Izvoz profila ni uspel.";
 
 /* No comment provided by engineer. */
-"Failed to import profile." = "Failed to import profile.";
+"Failed to import profile." = "Uvoz profila ni uspel.";
 
 /* No comment provided by engineer. */
-"Failed to restore" = "Failed to restore";
+"Failed to restore" = "Obnovitev ni uspela";
 
 /* No comment provided by engineer. */
-"Failed to sync profile." = "Failed to sync profile.";
+"Failed to sync profile." = "Sinhronizacija profila ni uspela.";
 
 /* No comment provided by engineer. */
-"Feedback" = "Feedback";
+"Feedback" = "Povratne informacije";
 
 /* No comment provided by engineer. */
-"For the setting to work, you must turn on Barbee's `Launch At Login`, log out and log back into macOS." = "For the setting to work, you must turn on Barbee's `Launch At Login`, log out and log back into macOS.";
+"For the setting to work, you must turn on Barbee's `Launch At Login`, log out and log back into macOS." = "Da bi nastavitev delovala, morate vklopiti Barbeejevo možnost »Zaženi ob prijavi«, se odjaviti in znova prijaviti v macOS.";
 
 /* No comment provided by engineer. */
-"Found %d profile(s)" = "Found %d profile(s)";
+"Found %d profile(s)" = "Najdenih %d profilov";
 
 /* No comment provided by engineer. */
-"Frame" = "Frame";
+"Frame" = "Okvir";
 
 /* No comment provided by engineer. */
-"Generic" = "Generic";
+"Generic" = "Generično";
 
 /* No comment provided by engineer. */
-"Get all menu bar items" = "Get all menu bar items";
+"Get all menu bar items" = "Pridobi vse elemente menijske vrstice";
 
 /* No comment provided by engineer. */
-"Get All Menu Bar Items" = "Get All Menu Bar Items";
+"Get All Menu Bar Items" = "Pridobi vse elemente menijske vrstice";
 
 /* No comment provided by engineer. */
-"Get always hidden menu bar items" = "Get always hidden menu bar items";
+"Get always hidden menu bar items" = "Vedno skriti elementi menijske vrstice";
 
 /* No comment provided by engineer. */
-"Get Always Hidden Menu Bar Items" = "Get Always Hidden Menu Bar Items";
+"Get Always Hidden Menu Bar Items" = "Pridobite vedno skrite elemente menijske vrstice";
 
 /* No comment provided by engineer. */
-"Get App Modules" = "Get App Modules";
+"Get App Modules" = "Pridobi module aplikacije";
 
 /* No comment provided by engineer. */
-"Get app modules using app bundle identifier: ${bundleIdentifier}" = "Get app modules using app bundle identifier: ${bundleIdentifier}";
+"Get app modules using app bundle identifier: ${bundleIdentifier}" = "Pridobite module aplikacije z uporabo identifikatorja paketa aplikacij: ${bundleIdentifier}";
 
 /* No comment provided by engineer. */
-"Get hidden menu bar items" = "Get hidden menu bar items";
+"Get hidden menu bar items" = "Pridobite skrite elemente menijske vrstice";
 
 /* No comment provided by engineer. */
-"Get Hidden Menu Bar Items" = "Get Hidden Menu Bar Items";
+"Get Hidden Menu Bar Items" = "Pridobite skrite elemente menijske vrstice";
 
 /* No comment provided by engineer. */
-"Get shown menu bar items" = "Get shown menu bar items";
+"Get shown menu bar items" = "Prikaz elementov menijske vrstice";
 
 /* No comment provided by engineer. */
-"Get Shown Menu Bar Items" = "Get Shown Menu Bar Items";
+"Get Shown Menu Bar Items" = "Prikaz elementov menijske vrstice";
 
 /* No comment provided by engineer. */
-"Get Started" = "Get Started";
+"Get Started" = "Začnite";
 
 /* No comment provided by engineer. */
-"Go to Barbee preferences..." = "Go to Barbee preferences...";
+"Go to Barbee preferences..." = "Pojdi na nastavitve Barbee...";
 
 /* No comment provided by engineer. */
-"Grant Permissions to Barbee" = "Grant Permissions to Barbee";
+"Grant Permissions to Barbee" = "Dodeli dovoljenja Barbee";
 
 /* No comment provided by engineer. */
-"Has Top Notch" = "Has Top Notch";
+"Has Top Notch" = "Ima Notch";
 
 /* No comment provided by engineer. */
-"Has top notch?" = "Has top notch?";
+"Has top notch?" = "Ima Notch?";
 
 /* No comment provided by engineer. */
-"Height" = "Height";
+"Height" = "Višina";
 
 /* No comment provided by engineer. */
-"Help Center" = "Help Center";
+"Help Center" = "Center za pomoč";
 
 /* No comment provided by engineer. */
-"Hidden" = "Hidden";
+"Hidden" = "Skrito";
 
 /* No comment provided by engineer. */
-"Hidden Items" = "Hidden Items";
+"Hidden Items" = "Skriti predmeti";
 
 /* No comment provided by engineer. */
-"Hidden Items:" = "Hidden Items:";
+"Hidden Items:" = "Skriti predmeti:";
 
 /* No comment provided by engineer. */
-"Hidden Menu Bar Item" = "Hidden Menu Bar Item";
+"Hidden Menu Bar Item" = "Skriti element menijske vrstice";
 
 /* No comment provided by engineer. */
-"Hide" = "Hide";
+"Hide" = "Skrij";
 
 /* No comment provided by engineer. */
-"Hide All" = "Hide All";
+"Hide All" = "Skrij vse";
 
 /* No comment provided by engineer. */
-"Hide Menu Bar Item (Enhanced mode only)" = "Hide Menu Bar Item (Enhanced mode only)";
+"Hide Menu Bar Item (Enhanced mode only)" = "Skrij element menijske vrstice (samo v izboljšanem načinu)";
 
 /* No comment provided by engineer. */
 "Hide menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "Hide menu bar item by identifier: ${itemIdentifier}, to X: ${x}";
